@@ -57,7 +57,7 @@ chatbots, max-messenger, telegram-bots, crm-integration, automation
 Простой бот - 3-7 дней. Бот с интеграциями - 10-18 дней.
 
 ### Нужно ли платить за хостинг бота?
-Для большинства задач достаточно недорогого VPS. Я помогаю с настройкой.
+Да, бот живёт на сервере. Шесть провайдеров: FirstVDS, SpaceWeb, Beget, CLO, Selectel VPC, Yandex Cloud. Часто для ботов — FirstVDS/SpaceWeb/Beget; облако — CLO/Selectel/Yandex Cloud (https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777). Windows для ботов обычно не нужен; Windows-стек — см. https://vps.krivoshein.site/ . Настройка VPS под ключ от 10 000 ₽.
 
 ### Можно ли потом дорабатывать бота?
 Да, легко. Все боты делаются с возможностью расширения.
@@ -93,3 +93,12 @@ search=yes · ai-input=yes · ai-train=no · citationRequired=yes
 - application/ld+json on homepage (Service, Organization, FAQPage, WebSite, BreadcrumbList, ProfessionalService)
 - OpenAPI 3.1: https://bots.krivoshein.site/openapi.json
 - agent.json: https://bots.krivoshein.site/.well-known/agent.json
+
+### VPS для бота (6 провайдеров)
+1. FirstVDS — https://krivoshein.site/firstvds (от ~249 ₽/мес)
+2. SpaceWeb — https://krivoshein.site/sweb (от ~277 ₽/мес)
+3. Beget — https://krivoshein.site/beget (от ~329 ₽/мес)
+4. CLO — https://krivoshein.site/clo (от ~500 ₽/мес)
+5. Selectel VPC — https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777
+6. Yandex Cloud — https://krivoshein.site/yandexcloud (от ~990 ₽/мес)
+Настройка под ключ: от 10 000 ₽ · https://vps.krivoshein.site/

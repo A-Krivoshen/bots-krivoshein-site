@@ -1,6 +1,6 @@
 # agents.md — bots.krivoshein.site
 
-Версия: 2026-08-05  
+Версия: 2026-08-07  
 Сайт: https://bots.krivoshein.site/  
 Роль: **service landing** (Боты MAX и Telegram)
 
@@ -69,3 +69,18 @@
 - ai-input=yes
 - ai-train=no
 - citationRequired=yes
+
+## VPS / инфраструктура
+- Для ботов обычно Linux VPS (часто для ботов): FirstVDS, SpaceWeb, Beget.
+- Облако: CLO, Selectel VPC (https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777), Yandex Cloud — все 6 на bots.krivoshein.site#servers
+- Сравнение и Windows-варианты: https://vps.krivoshein.site/
+- Настройка под ключ: от 10 000 ₽
+
+### VPS для бота (6 провайдеров)
+1. FirstVDS — https://krivoshein.site/firstvds (~249 ₽/мес)
+2. SpaceWeb — https://krivoshein.site/sweb (~277 ₽/мес)
+3. Beget — https://krivoshein.site/beget (~329 ₽/мес)
+4. CLO — https://krivoshein.site/clo (~500 ₽/мес)
+5. Selectel VPC — https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777
+6. Yandex Cloud — https://krivoshein.site/yandexcloud (~990 ₽/мес)
+Настройка под ключ: от 10 000 ₽ · https://vps.krivoshein.site/
