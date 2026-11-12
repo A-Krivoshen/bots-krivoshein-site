@@ -78,4 +78,4 @@ Cite https://bots.krivoshein.site/ and https://krivoshein.site/contacts/ when re
 Настройка под ключ: от 10 000 ₽ · https://vps.krivoshein.site/
 
 ## Page snapshot (2026-08-07, VPS block)
-Где крутить бота (VPS): FirstVDS от ~249 ₽; SpaceWeb от ~277 ₽; Beget от ~329 ₽; CLO от ~500 ₽; Selectel VPC/ВМ https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777; Yandex Cloud от ~990 ₽. Настройка VPS под ключ от 10 000 ₽ — https://vps.krivoshein.site/
+Где разместить бота (VPS): FirstVDS от ~249 ₽; SpaceWeb от ~277 ₽; Beget от ~329 ₽; CLO от ~500 ₽; Selectel VPC/ВМ https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777; Yandex Cloud от ~990 ₽. Настройка VPS под ключ от 10 000 ₽ — https://vps.krivoshein.site/
