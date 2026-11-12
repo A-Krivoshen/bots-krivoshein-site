@@ -57,11 +57,13 @@ chatbots, max-messenger, telegram-bots, crm-integration, automation
 Простой бот - 3-7 дней. Бот с интеграциями - 10-18 дней.
 
 ### Нужно ли платить за хостинг бота?
-Да, бот живёт на сервере. Шесть провайдеров: FirstVDS, SpaceWeb, Beget, CLO, Selectel VPC, Yandex Cloud. Часто для ботов — FirstVDS/SpaceWeb/Beget; облако — CLO/Selectel/Yandex Cloud (https://selectel.ru/services/cloud/vpc/?ref_code=2c6445c777). Windows для ботов обычно не нужен; Windows-стек — см. https://vps.krivoshein.site/ . Настройка VPS под ключ от 10 000 ₽.
+Бот живёт в облаке Amvera, оплату хостинга вы берёте на свой аккаунт. Я помогаю с выкладкой. Если задаче нужен свой сервер, подойдёт и обычный VPS.
 
 ### Можно ли потом дорабатывать бота?
 Да, легко. Все боты делаются с возможностью расширения.
 
+### Где будет жить бот
+В облаке Amvera: российский PaaS, выкладка из git, без своего сервера. Партнёрская ссылка: https://krivoshein.site/amvera
 
 ## Экосистема
 - https://krivoshein.site/ — Хаб: услуги, блог, прайс, контакты
