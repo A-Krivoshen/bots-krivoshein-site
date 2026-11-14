@@ -1,5 +1,5 @@
 /* PWA service worker — https://bots.krivoshein.site */
-var CACHE = 'krv-bots-talk-20261115';
+var CACHE = 'krv-bots-privacy-20261114';
 var PRECACHE = [
   '/',
   '/privacy.html',
